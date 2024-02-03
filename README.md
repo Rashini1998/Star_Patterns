@@ -1,1 +1,2 @@
-Star patterns using JAVA.
+Star Patterns using JAVA 
+: )
